@@ -1,0 +1,10 @@
+package Thanksgiving;
+
+public class Invitation {
+	
+	private String tFamily;
+	private int tMembers;
+	private String tPlate;
+	public Invitation() {};
+	
+	

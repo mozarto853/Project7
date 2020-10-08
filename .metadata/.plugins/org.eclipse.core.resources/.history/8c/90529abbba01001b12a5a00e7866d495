@@ -1,0 +1,11 @@
+package Food;
+
+public class Thanksgiving {
+
+	public static void main(String[] args) {
+		Meals menu = new Meals();
+		System.out.println("I can't wait to eat " + menu.dessert);
+
+	}
+
+}

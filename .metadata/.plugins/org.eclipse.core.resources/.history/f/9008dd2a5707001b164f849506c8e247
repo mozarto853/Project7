@@ -1,0 +1,10 @@
+package WoW;
+
+public class Specs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

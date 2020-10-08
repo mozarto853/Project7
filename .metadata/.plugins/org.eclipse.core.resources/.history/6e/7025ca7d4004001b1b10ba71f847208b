@@ -1,0 +1,14 @@
+package contructor;
+
+public class TestCar {
+
+	public static void main(String[] args) {
+		Car myCar = new Car("Lexus");
+		
+		
+		//myCar.setCarCodel("Lexus");
+		//System.out.println(myCar.getCarModel());
+
+	}
+
+}

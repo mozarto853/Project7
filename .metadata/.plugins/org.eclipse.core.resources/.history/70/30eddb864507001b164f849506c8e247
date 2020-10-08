@@ -1,0 +1,16 @@
+package HW3;
+
+public class TestStudent {
+
+	public static void main(String[] args) {
+		Student st1 = new Student();
+		st1.setStName("Mozart");
+		st1.setStID(777);
+		st1.setStGrade('A');
+		st1.setStDOB("01_01_1990");
+		
+		System.out.println(st1.getStName() + " " + st1.getStID() + " " + st1.getStGrade() + " " + st1.getStGrade() + " " + st1.getStDOB());
+
+	}
+
+}

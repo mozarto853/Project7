@@ -1,0 +1,13 @@
+package Loops;
+
+public class UseDoLoops {
+	
+	public static void main(String [] args) {
+		
+		do {
+			System.out.println("This is one task accomplished");
+		}while(false);
+		
+	}
+
+}

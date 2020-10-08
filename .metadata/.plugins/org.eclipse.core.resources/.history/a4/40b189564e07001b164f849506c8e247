@@ -1,0 +1,13 @@
+package Thanksgiving;
+
+public class Members {
+
+	public static void main(String[] args) {
+		
+		Invitation f1 = new Invitation();
+		f1.settFamily("Ortiz");
+		
+
+	}
+
+}

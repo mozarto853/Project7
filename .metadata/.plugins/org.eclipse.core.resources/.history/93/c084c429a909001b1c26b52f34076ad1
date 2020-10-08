@@ -1,0 +1,11 @@
+package Loops;
+
+public class UseWhile {
+	public static void main(String [] args) {
+		int num = 10;
+				while(num>0) {
+					System.out.println(num + " Is greater than 10"); num--;
+				}
+	}
+
+}

@@ -1,0 +1,10 @@
+package Food;
+
+public class Favorite {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Thiss Thanksgiving we are eating " + entree + " and then at night we are eating " + dessert);
+	}
+
+}

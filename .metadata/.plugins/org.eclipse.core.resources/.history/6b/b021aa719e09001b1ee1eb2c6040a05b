@@ -1,0 +1,22 @@
+package Logical;
+
+import java.util.Scanner;
+
+public class Diets {
+
+	public static void main(String[] args) {
+		System.out.println("How much calories does the food has?");
+		Scanner sc = new Scanner(System.in);
+		int calories =sc.nextInt();
+		int protein =sc.nextInt();
+		sc.close();
+		
+		if(calories>100) {System.out.println("The meal is healthy");
+		
+		}else {System.out.println("The meal is NOT healthy");
+		
+		}
+
+	}
+
+}

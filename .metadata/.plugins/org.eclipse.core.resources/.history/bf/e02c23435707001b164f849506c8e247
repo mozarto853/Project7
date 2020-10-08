@@ -1,0 +1,12 @@
+package WoW;
+
+public class Specs {
+
+	public static void main(String[] args) {
+		
+		Character c2 = new Character("Resto Druid","Healer",9);
+		System.out.println();
+
+	}
+
+}

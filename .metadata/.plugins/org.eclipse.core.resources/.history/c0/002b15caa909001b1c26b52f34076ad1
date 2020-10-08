@@ -1,0 +1,14 @@
+package Loops;
+
+public class UseWhile {
+	public static void main(String [] args) {
+		int num = 10;
+		
+		if(num==num) {System.out.println(num + " is equal to " + num);
+		}
+		while(num>0) {
+					System.out.println(num + " Is greater than 10"); num--;
+				}
+	}
+
+}

@@ -1,0 +1,10 @@
+package candy;
+
+public class Favorite {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
